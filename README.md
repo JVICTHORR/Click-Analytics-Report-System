@@ -79,32 +79,6 @@ Envio de emails com Resend
 
 ---
 
-# ⚙️ Instalação
-
-## Clone o projeto
-
-```bash
-git clone URL_DO_REPOSITORIO
-```
-
----
-
-## Entre na pasta
-
-```bash
-cd click-analytics-system
-```
-
----
-
-## Instale as dependências
-
-```bash
-npm install
-```
-
----
-
 # 🔒 Variáveis de Ambiente
 
 Crie um arquivo `.env` na raiz do projeto:
@@ -156,3 +130,7 @@ A rota abaixo gera um relatório e envia automaticamente um email contendo a qua
 # 👨‍💻 Autor
 
 Desenvolvido por: João Victhor Rodrigues Freitas Pinto.
+
+---
+# ⚠️ Aviso
+Este código está disponível apenas para visualização e testes pessoais. O uso comercial, redistribuição ou modificação para fins lucrativos é proibido sem autorização prévia. Para licenciamento comercial, entre em contato em: [jvrodriguesfreitas@gmail.com].
