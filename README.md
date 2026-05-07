@@ -1,36 +1,158 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📊 Click Analytics System
 
-## Getting Started
+Sistema Fullstack de monitoramento de cliques e geração automática de relatórios desenvolvido com Next.js App Router, Prisma ORM e PostgreSQL.
 
-First, run the development server:
+---
+
+# 🚀 Tecnologias Utilizadas
+
+- Next.js App Router
+- React
+- TypeScript
+- Prisma ORM
+- PostgreSQL
+- Resend API
+- REST API
+
+---
+
+# ⚡ Funcionalidades
+
+✅ Rastreamento de cliques em links e páginas  
+✅ Armazenamento de métricas em PostgreSQL  
+✅ Captura de User Agent do navegador  
+✅ API backend integrada com App Router  
+✅ Contagem automática de cliques  
+✅ Geração de relatórios  
+✅ Envio automatizado de emails com Resend  
+✅ Arquitetura Fullstack moderna  
+
+---
+
+# 🧠 Objetivo do Projeto
+
+Este projeto foi desenvolvido com o objetivo de estudar arquitetura Fullstack moderna utilizando Next.js App Router, integração com banco de dados relacional e automação de relatórios.
+
+O sistema registra interações dos usuários, armazena métricas em banco de dados e envia relatórios automáticos por email contendo a quantidade total de cliques registrados.
+
+---
+
+# 📁 Estrutura do Projeto
+
+```bash
+app/
+ ├── api/
+ │    ├── click/
+ │    │     └── route.js
+ │    └── report/
+ │          └── route.js
+ │
+ ├── globals.css
+ ├── layout.tsx
+ └── page.tsx
+
+lib/
+ ├── prisma.js
+ └── email.js
+
+prisma/
+ └── schema.prisma
+```
+
+---
+
+# 🔥 Fluxo da Aplicação
+
+```text
+Frontend
+   ↓
+API Routes
+   ↓
+Prisma ORM
+   ↓
+PostgreSQL
+   ↓
+Relatórios automáticos
+   ↓
+Envio de emails com Resend
+```
+
+---
+
+# ⚙️ Instalação
+
+## Clone o projeto
+
+```bash
+git clone URL_DO_REPOSITORIO
+```
+
+---
+
+## Entre na pasta
+
+```bash
+cd click-analytics-system
+```
+
+---
+
+## Instale as dependências
+
+```bash
+npm install
+```
+
+---
+
+# 🔒 Variáveis de Ambiente
+
+Crie um arquivo `.env` na raiz do projeto:
+
+```env
+DATABASE_URL="SUA_DATABASE_URL"
+RESEND_API_KEY="SUA_API_KEY"
+```
+
+---
+
+# ▶️ Executando o Projeto
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Aplicação disponível em:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```text
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+# 📧 Relatórios Automáticos
 
-To learn more about Next.js, take a look at the following resources:
+A rota abaixo gera um relatório e envia automaticamente um email contendo a quantidade total de cliques registrados:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```text
+/api/report
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+# 📌 Possíveis Melhorias Futuras
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Dashboard administrativo
+- Gráficos de métricas
+- Integração com Google Analytics 4
+- Integração com Vercel Analytics
+- Relatórios mensais automatizados
+- Sistema de autenticação
+- Heatmap de cliques
+- Inteligência artificial para análise de métricas
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+# 👨‍💻 Autor
+
+Desenvolvido por: João Victhor Rodrigues Freitas Pinto.
