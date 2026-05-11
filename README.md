@@ -1,7 +1,6 @@
 # 📊 Click Analytics System<img width="444" height="960" alt="665038319_959059730200101_1554045310604781107_n" src="https://github.com/user-attachments/assets/7ccdb57c-6099-4ca8-b0de-3ed33b9788aa" />
 <img width="444" height="960" alt="688006374_1442919990938593_5634089263552337822_n" src="https://github.com/user-attachments/assets/91e576d6-ac11-44c0-a843-512445bfeade" />
 <img width="444" height="960" alt="690765661_2195721147853783_8226284494828274983_n" src="https://github.com/user-attachments/assets/5c91c218-503c-4b3b-aba8-251db8971f2e" />
-<img width="183" height="124" alt="Captura de tela 2026-05-11 002817" src="https://github.com/user-attachments/assets/b2de2b2c-be5d-433f-a391-4d88773e5350" />
 <img width="446" height="139" alt="Captura de tela 2026-05-11 002744" src="https://github.com/user-attachments/assets/d161078f-7cb3-4837-97d5-d3c5b5093ef8" />
 <img width="1919" height="904" alt="Captura de tela 2026-05-11 002715" src="https://github.com/user-attachments/assets/f7017b45-4fdd-49aa-ba0e-185c198b7f81" />
 <img width="1919" height="908" alt="Captura de tela 2026-05-11 002922" src="https://github.com/user-attachments/assets/dfb5f6a2-2bec-4d19-8ed3-6933721989a2" />
