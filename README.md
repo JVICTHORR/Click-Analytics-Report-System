@@ -2,6 +2,7 @@
 <img width="444" height="960" alt="688006374_1442919990938593_5634089263552337822_n" src="https://github.com/user-attachments/assets/91e576d6-ac11-44c0-a843-512445bfeade" />
 <img width="183" height="124" alt="Captura de tela 2026-05-11 002817" src="https://github.com/user-attachments/assets/b2de2b2c-be5d-433f-a391-4d88773e5350" />
 <img width="446" height="139" alt="Captura de tela 2026-05-11 002744" src="https://github.com/user-attachments/assets/d161078f-7cb3-4837-97d5-d3c5b5093ef8" />
+<img width="1919" height="908" alt="Captura de tela 2026-05-11 002922" src="https://github.com/user-attachments/assets/63b5582f-5726-44be-8a74-b9ebf984177f" />
 <img width="1919" height="904" alt="Captura de tela 2026-05-11 002715" src="https://github.com/user-attachments/assets/f7017b45-4fdd-49aa-ba0e-185c198b7f81" />
 
 
