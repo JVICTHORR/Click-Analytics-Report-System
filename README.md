@@ -3,7 +3,7 @@
 <img width="183" height="124" alt="Captura de tela 2026-05-11 002817" src="https://github.com/user-attachments/assets/b2de2b2c-be5d-433f-a391-4d88773e5350" />
 <img width="446" height="139" alt="Captura de tela 2026-05-11 002744" src="https://github.com/user-attachments/assets/d161078f-7cb3-4837-97d5-d3c5b5093ef8" />
 <img width="1919" height="904" alt="Captura de tela 2026-05-11 002715" src="https://github.com/user-attachments/assets/f7017b45-4fdd-49aa-ba0e-185c198b7f81" />
-<img width="1919" height="908" alt="Captura de tela 2026-05-11 002922" src="https://github.com/user-attachments/assets/dfb5f6a2-2bec-4d19-8ed3-6933721989a2" />
+
 
 
 Sistema Fullstack de monitoramento de cliques e geração automática de relatórios desenvolvido com Next.js App Router, Prisma ORM e PostgreSQL.
